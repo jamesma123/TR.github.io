@@ -10,7 +10,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     min-height: 8vh; 
-    background-color: rgb(105, 8, 97);
+    background-color: rgb(22, 82, 247);
     font-family: 'Poppins', sans-serif;
 }
 
@@ -31,7 +31,7 @@ nav{
 }
 .nav-links{
     display: flex;
-    background-color: rgb(105, 8, 97);
+    background-color: rgb(22, 82, 247);
     justify-content: space-around;
     width: 35%;
 }
@@ -62,35 +62,43 @@ nav{
 }
 
 .header {
-    padding: 80px;
+    padding: 250px;
     text-align: center;
-    background: #033f33;
+    background-color: #361dc5;
     color: white;
     font-size: 30px;
   }
 
   .header2 {
-    padding: 80px;
+    padding: 250px;
     text-align: center;
-    background: #917417;
+    background: rgb(22, 82, 247);
     color: white;
     font-size: 30px;
   }
   .header3 {
-    padding: 80px;
+    padding: 250px;
     text-align: center;
-    background: #91174a;
+    background: #361dc5;
     color: white;
     font-size: 30px;
   }
   
   .h4 {
-    padding: 80px;
+    padding: 250px;
     text-align: center;
-    background: #f00969;
+    background: rgb(22, 82, 247);
     color: white;
     font-size: 30px;
   }
+
+
+  p {
+      border: 50px;
+      padding: 50px;
+  }
+
+
 
 
 
