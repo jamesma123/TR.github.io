@@ -94,11 +94,17 @@ nav{
 
 
   p {
-      border: 50px;
+      
       padding: 50px;
+      
+      
   }
 
-
+ul{
+    list-style-position: inside;
+    list-style-type: square;
+    
+}
 
 
 
@@ -157,4 +163,5 @@ nav{
         transform: rotate(45deg) translate(-5px,-6px);
     }
 }
+
 
